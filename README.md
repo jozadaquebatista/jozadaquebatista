@@ -1,45 +1,26 @@
-### Hi there 👋
+<div style="text-align:center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB1ZXM4aWI0aTZkM3VyejRiZ2wzZWl2ZDNodHkwM2kwbjBndGhqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif" style="max-width:100%;" /></div>
 
-<!--
-**jozadaquebatista/jozadaquebatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">⚡ 0n.DEV // SYSTEM ONLINE ⚡</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"Knowledge makes ignorance lighter."</i>
+</p>
 
-<div>
-  <a href="https://github.com/jozadaquebatista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozadaquebatista&layout=compact&theme=blue-green"/>
-</div>
-  
-##
-  
-<div style="display: flex">
-  <br>
-  <img align="center" alt="PHP" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
+<p align="center"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" width="50"/> <img src="https://www.svgrepo.com/show/349474/php.svg" width="50"/> <img src="https://www.svgrepo.com/show/452091/python.svg" width="50"/> <img src="https://www.svgrepo.com/show/448236/linux.svg" width="50"/> <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50"/> <img src="https://www.svgrepo.com/show/374168/vim.svg" width="50"/></p>
 
 ##
 
-![Snake animation](https://github.com/jozadaquebatista/jozadaquebatista/blob/output/github-contribution-grid-snake.svg)
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jozadaquebatista&theme=react-dark"/></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/jozadaquebatista/jozadaquebatista/output/github-contribution-grid-snake.svg"/></p>
+
+## 🖥️ TERMINAL
+
+```bash
+> boot system...
+
+> whoami
+root
+
+> stack --list
+PHP | Node.js | Python | C/C++ | Linux | Docker | Vim
