@@ -8,7 +8,7 @@
   <i>"Knowledge makes ignorance lighter."</i>
 </p>
 
-<p align="center"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" width="50"/> <img src="https://www.svgrepo.com/show/349474/php.svg" width="50"/> <img src="https://www.svgrepo.com/show/452091/python.svg" width="50"/> <img src="https://www.svgrepo.com/show/448236/linux.svg" width="50"/> <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50"/> <img src="https://www.svgrepo.com/show/374168/vim.svg" width="50"/></p>
+<p align="center"> <img src="https://www.svgrepo.com/show/349474/php.svg" width="50"/> &nbsp; <img src="https://www.svgrepo.com/show/354118/nodejs.svg" width="50"/> &nbsp; <img src="https://www.svgrepo.com/show/452091/python.svg" width="50"/> &nbsp; <img src="https://www.svgrepo.com/show/452183/cpp.svg" width="50"/> &nbsp; <img src="https://www.svgrepo.com/show/448236/linux.svg" width="50"/> &nbsp; <img src="https://www.svgrepo.com/show/452192/docker.svg" width="50"/> &nbsp; <img src="https://www.svgrepo.com/show/374168/vim.svg" width="50"/></p>
 
 ##
 
