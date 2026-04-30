@@ -1,5 +1,6 @@
-<div style="text-align:center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB1ZXM4aWI0aTZkM3VyejRiZ2wzZWl2ZDNodHkwM2kwbjBndGhqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif" style="max-width:100%;" /></div>
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative">
+  <img src="https://i.giphy.com/PTBVMsYIOB0SBP4MVe.webp" width="50%" height="50%" style="position:absolute"><img src="https://i.giphy.com/PTBVMsYIOB0SBP4MVe.webp" width="50%" height="50%" style="position:absolute">
+</div>
 
 <h1 align="center">⚡ 0n.DEV // SYSTEM ONLINE ⚡</h1>
 
